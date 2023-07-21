@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "donjayamanne.githistory",
+        "github.copilot",
+        "johnpapa.vscode-peacock",
+        "yoavbls.pretty-ts-errors"
+    ]
+}
